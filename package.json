@@ -1,5 +1,5 @@
 {
-  "name": "@LuisValgoi/github-package-playground",
+  "name": "@luisvalgoi/github-package-playground",
   "version": "1.0.0",
   "description": "",
   "private": false,
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": "git://github.com/LuisValgoi/github-package-playground.git."
+    "url": "git://github.com/luisvalgoi/github-package-playground.git."
   },
   "keywords": [],
   "author": "",
